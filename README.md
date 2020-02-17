@@ -2,3 +2,6 @@
 
 1. 실험용 패키지 설치
 $ sudo apt-get install binutils build-essential sysstat
+
+2. gcc 컴파일 방법
+$ cc -o hello hello.c
